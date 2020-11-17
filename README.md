@@ -1,6 +1,6 @@
-# AWS Systems Manager - Parameter Store (with .NET) Labs
+# AWS Systems Manager (with .NET) Labs
 
-> Demo: AWS AWS Systems Manager - Parameter Store + .NET 5.x
+> Demo: AWS Systems Manager - Parameter Store + .NET 5.x
 
 
 
